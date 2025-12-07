@@ -1,0 +1,16 @@
+{
+  "kmeans_best": {
+    "k": 5,
+    "silhouette": 0.3008822912411202,
+    "calinski_harabasz": 57.62252356062451,
+    "davies_bouldin": 0.8671489751368743
+  },
+  "dbscan_best": {
+    "eps": 1.1971401220267224,
+    "min_samples": 10,
+    "silhouette": 0.4505332748579965,
+    "calinski_harabasz": 62.79485298483569,
+    "davies_bouldin": 0.7690031004941408,
+    "n_clusters": 2
+  }
+}
